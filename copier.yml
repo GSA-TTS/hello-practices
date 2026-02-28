@@ -1,0 +1,20 @@
+project_name:
+  type: str
+  help: "Name of your project"
+  default: "my-project"
+
+_answers_file: ".copier-answers.hello-practices.yml"
+_message_after_copy: |
+    Project practices for "{{ project_name }}" have been set up!
+
+    Included:
+    - CONTRIBUTING.md
+    - LICENSE.md (CC0)
+    - SECURITY.md
+    - docs/security.md
+    - docs/decisions/ (ADR process + template)
+    - .github/ISSUE_TEMPLATE/ (feature, spike, user story)
+
+    IMPORTANT: A .copier-answers.hello-practices.yml file has been created.
+    This file is required for future template updates and should be committed
+    to your repository.
