@@ -1,6 +1,6 @@
 # Agreed Decision Records
 
-This directory contains Agreed Decision Records (ADRs) for the hello-ai-coding project.
+This directory contains Agreed Decision Records (ADRs) for the hello-practices project.
 
 ADRs[^1] record significant decisions along with their context and consequences.
 
