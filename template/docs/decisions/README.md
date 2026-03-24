@@ -17,4 +17,4 @@ ADRs[^1] record significant decisions along with their context and consequences.
 3. Add an entry to the index table above.
 4. Open a pull request for team review.
 
-[^1]: For background on the ADR practice, see [adr.github.io](https://adr.github.io/). Rather than only memorialize decisions about "architecture", the "A" in ADR is repurposed to widen the scope for decisions captured here without losing the link to the well-known acronym. This project follows the [MADR 4.0](https://adr.github.io/madr/) format.
+[^1]: For background on the ADR practice, see [this post](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html). Rather than only memorialize decisions about "architecture", the "A" in ADR is repurposed to widen the scope for decisions captured here without losing the link to the well-known acronym. This project follows the [MADR 4.0](https://adr.github.io/madr/) format.
