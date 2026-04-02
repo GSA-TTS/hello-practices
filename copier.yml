@@ -4,6 +4,7 @@ project_name:
   default: "my-project"
 
 _answers_file: ".copier-answers.hello-practices.yml"
+_subdirectory: "template"
 _message_after_copy: |
     Project practices for "{{ project_name }}" have been set up!
 
