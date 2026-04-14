@@ -16,19 +16,24 @@ Given above [question/risk/uncertainty], conducting [research/design/investigati
 
 ### Acceptance Criteria
 
-[ACs should be clearly demo-able/verifiable whenever possible. Try specifying them using [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development#Behavioral_specifications).]
+<!-- ACs should be clearly demo-able/verifiable whenever possible. Try specifying them using BDD: https://en.wikipedia.org/wiki/Behavior-driven_development#Behavioral_specifications
+
+---
 
 GIVEN [a contextual precondition] \
   [AND optionally another precondition]
+
 - [ ] WHEN [time box] expires\
   THEN [findings demonstrated] \
   AND [future action is decided] \
   AND [stories covering future action are created if needed]
 
+-->
+
 ### Background
 
-[Any helpful contextual notes or links to artifacts/evidence, if needed]
+<!-- Any helpful contextual notes or links to artifacts/evidence, if needed -->
 
 ### Sketch
 
-[Notes or a checklist reflecting our plan for tackling the uncertainty]
+<!-- Notes or a checklist reflecting our plan for tackling the uncertainty -->
