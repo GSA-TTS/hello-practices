@@ -11,10 +11,13 @@ In order to [goal], [stakeholder] wants [change].
 
 ## Acceptance Criteria
 
-<!-- ACs should be clearly demoable/verifiable whenever possible. The template here comes from [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development#Behavioral_specifications), but you aren't required to follow this form. -->
+<!-- ACs should be clearly demo-able/verifiable whenever possible. Try specifying them using BDD: https://en.wikipedia.org/wiki/Behavior-driven_development#Behavioral_specifications
+
+---
 
 GIVEN [a contextual precondition] \
   [AND optionally another precondition]
+
 - [ ] WHEN [a triggering event] happens \
   THEN [a verifiable outcome] \
   [AND optionally another verifiable outcome]
@@ -25,17 +28,12 @@ GIVEN [a contextual precondition] \
 
 ## Security Considerations ([required](https://nvd.nist.gov/800-53/Rev4/control/CM-4))
 
-[comment]: # "Our SSPP says 'The team ensures security implications are considered as part of the agile requirements refinement process by including a section in the issue template used as a basis for new work.' so please don't remove this section without care."
-
-<!--Any security concerns that might be implicated in the change. "None" is OK, just be explicit here! -->
+[comment]: # "Our SSP says 'The team ensures security implications are considered as part of the agile requirements refinement process by including a section in the issue template used as a basis for new work.' so please don't remove this section without care."
+<!-- Any security concerns that might be implicated in the change. "None" is OK, just be explicit here! -->
 
 ---
 
 ## Sketch
 
 <!-- Notes, references, and/or a checklist reflecting our understanding of the selected approach -->
-
-- [ ] First do A
-- [ ] Then do B
-- [ ] Don't forget C
 
