@@ -15,7 +15,7 @@
 
 | Threat | Status | Notes |
 |--------|--------|-------|
-| {Threat C} | {Status C} | {Notes}
+| {Threat C} | {Status C} | {Notes} |
 
 ### Threats We Don't Protect Against
 
