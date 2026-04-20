@@ -22,6 +22,17 @@ GIVEN [precondition, e.g., environment, user role, state] \
   THEN [expected behavior] \
   BUT [actual behavior observed]
 
+<!-- Example:
+
+GIVEN I am logged in as a standard user \
+  AND I am on the dashboard page
+
+- [ ] WHEN I click "Export CSV" \
+  THEN a CSV file should download \
+  BUT the page shows a 500 error instead
+
+-->
+
 ## Severity
 
 <!-- How bad is it? Consider: data loss, security, user-facing, workaround available? -->

@@ -24,7 +24,7 @@ GIVEN [a contextual precondition] \
 - [ ] WHEN [time box] expires\
   THEN [findings demonstrated] \
   AND [future action is demoed/decided] \
-  AND [security implications of findings are noted] \ <!-- RA-3 (Risk Assessment) · SR-3 (Supply Chain Protection) -->
+  AND [security implications of findings are noted] \ <!-- RA-3 (Risk Assessment) · SR-3 (Supply Chain Protection)
   AND [stories covering future action are created if needed]
 
 -->

@@ -31,7 +31,7 @@ None expected.
 
 - [ ] Tests for these changes added (when possible) <!-- SA-11 Developer Testing · SI-7 Software & Information Integrity -->
 - [ ] Relevant docs updated <!-- SA-5 System Documentation · CM-3 Configuration Change Control -->
-- [ ] No new third-party dependencies (or changes reviewed) <!-- SR-3 Supply Chain Protection · RA-5 Vulnerability Monitoring -->
+- [ ] Newly introduced dependencies were reviewed for security posture and compatible licensing, and are actively updated <!-- SR-3 Supply Chain Protection · RA-5 Vulnerability Monitoring -->
 - [ ] No new PII or sensitive data handling (or documented) <!-- SI-12 Information Management · PT-2 Authority to Process PII -->
 
 ### AI disclosure
@@ -41,7 +41,9 @@ None expected.
 
 Check one.
 
-- [ ] No AI tools used
-- [ ] AI-assisted — I understand all changes and could maintain them without AI
+- [ ] I did not use AI tools.
+- [ ] I drove, AI tools assisted: I used AI tools, but I was in the driver's seat. (Please indicate when changes were heavily reliant.)
+- [ ] AI tools drove, I assisted: These changes were primarily implemented by AI tools, but I can explain, defend, and maintain all the changes.
+- [ ] AI tools drove without much assistance: These are changes that would be difficult to maintain without AI tools. (Note that PRs of this nature will be more heavily scrutinized.)
 
 <!-- Optional: note which tools and modes (e.g., Foo completions, Bar chat, Baz coding agent) -->

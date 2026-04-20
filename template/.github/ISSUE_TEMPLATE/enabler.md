@@ -8,11 +8,11 @@ assignees: ''
 
 ## [Architecture | Infrastructure | Compliance] work
 
-[System/component] needs [work] so that [benefit/future capability].
+[System|component] needs [work] so that [benefit-enabled|risk-averted].
 
 ## Justification
 
-<!-- Why prioritize this? Note the problem being solved, future value unlocked, or risk being addressed. -->
+<!-- Why would someone prioritize this? Note the problem being solved, future value unlocked, or risk being addressed. -->
 
 ## Acceptance Criteria
 
@@ -24,17 +24,20 @@ assignees: ''
 
 --- For Architecture / Infrastructure / Compliance enablers:
 
-GIVEN [current state of system/component]
+GIVEN [system|component] currently [has limitation|risk]
 
-- [ ] WHEN [this enabler is complete] \
-  THEN [verifiable outcome] \
-  AND [dependent work is unblocked]
+- [ ] WHEN this enabler is complete \
+  THEN [measurable improvement] \
+  AND [downstream work] is unblocked
 
 -->
 
+<!-- 
 ## Dependencies
 
-<!-- Other features or enablers that depend on or block this work. "None" is fine. -->
+Other features or enablers that depend on or block this work. "None" is fine. 
+
+-->
 
 ## Security Considerations
 
