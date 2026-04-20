@@ -14,7 +14,7 @@ _message_after_copy: |
     - SECURITY.md
     - docs/security.md
     - docs/decisions/ (ADR process + template)
-    - .github/ISSUE_TEMPLATE/ (feature, spike, user story)
+    - .github/ISSUE_TEMPLATE/ (feature, enabler, user story, spike, bug report)
 
     IMPORTANT: A .copier-answers.hello-practices.yml file has been created.
     This file is required for future template updates and should be committed

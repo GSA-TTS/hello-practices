@@ -1,8 +1,8 @@
 ---
 name: Spike 
 about: Research, design, investigate, prototype
-title: ''
-labels: ''
+title: '[spike] '
+labels: 'spike'
 assignees: ''
 ---
 
@@ -10,9 +10,7 @@ assignees: ''
 
 We want to [goal], but we're not sure how to do that.
 
-Given above [question/risk/uncertainty], conducting [research/design/investigation/prototyping] is needed to provide factual knowledge on future steps.
-
-[timebox] of effort has been allocated and once compete, findings will be demonstrated and specific future actions will be decided.
+We're spending a pre-determined timebox [research/design/investigation/prototyping] to provide factual knowledge to guide future steps.
 
 ### Acceptance Criteria
 
@@ -25,7 +23,8 @@ GIVEN [a contextual precondition] \
 
 - [ ] WHEN [time box] expires\
   THEN [findings demonstrated] \
-  AND [future action is decided] \
+  AND [future action is demoed/decided] \
+  AND [security implications of findings are noted] \ <!-- RA-3 (Risk Assessment) · SR-3 (Supply Chain Protection)
   AND [stories covering future action are created if needed]
 
 -->
